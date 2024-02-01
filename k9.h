@@ -20,5 +20,5 @@ private:
     getGroup():string
     set K9(aName: string, aBreed: string, aAge: int, aColor: string, aWeight: float, aGroup: string): void
 
-
+class
 };
